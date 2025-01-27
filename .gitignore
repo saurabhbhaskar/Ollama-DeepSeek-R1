@@ -1,0 +1,99 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Python cache files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Chainlit specific files
+.chainlit/
+*.db
+
+# Log files
+logs/
+*.log
+*.out
+*.err
+
+# Environment variables
+.env
+*.env
+*.ini
+*.cfg
+*.toml
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Compiled C extensions
+*.so
+
+# MacOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python distribution / packaging
+build/
+dist/
+*.egg-info/
+.installed.cfg
+
+# Ollama model files
+*.ollama
+*.onnx
+*.tflite
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+coverage.xml
+*.cover
+.hypothesis/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Docker files
+docker-compose.override.yml
+.dockerignore
+
+# Chainlit translation files
+*.mo
+*.pot
+
+# Node.js (if using for frontend)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+notes.txt
